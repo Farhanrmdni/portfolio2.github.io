@@ -1,0 +1,101 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #727070;
+}
+.lead {
+  font-family: 'Abril Fatface', cursive;
+}
+.judul {
+  text-align: center;
+}
+.judul h3 {
+  font-family: 'Luckiest Guy', cursive;
+}
+.jumbotron h1 {
+  font-family: 'Cabin', sans-serif;
+}
+hr {
+  margin: auto;
+  margin-bottom: 80px;
+}
+.txt {
+  font-family: 'Fredoka', sans-serif;
+}
+#project {
+  background-color: #727070;
+}
+.pembungkus {
+  background-color: #eee;
+}
+.containerr {
+  background-color: #525050;
+  border-radius: 50px;
+  width: 80%;
+  margin: auto;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+.your-class {
+  width: 80%;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 50px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+h4 {
+  text-align: center;
+  font-size: 30px;
+  margin-bottom: 30px;
+  font-family: 'Gloria Hallelujah', cursive;
+}
+.slick-slide {
+  margin: 10px;
+}
+
+.slick-slide img {
+  width: 100%;
+  border: 0px solid #fff;
+}
+section {
+  padding-top: 5rem;
+}
+h2 {
+  font-family: 'Luckiest Guy', cursive;
+}
+.footer {
+  padding-bottom: 10px;
+}
+.created {
+  margin: auto;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.sosmed {
+  width: 29%;
+
+  margin: auto;
+}
+.sosmed a {
+  width: 100%;
+}
+.fa {
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-top: 20px;
+}
+.sosmed a span {
+  color: white;
+  font-size: 14px;
+
+  border-radius: 40px;
+  font-family: 'Courier New', Courier, monospace;
+}
+.sosmed :hover {
+  color: aquamarine;
+}
+.fa:hover :hover {
+  color: aquamarine;
+}
